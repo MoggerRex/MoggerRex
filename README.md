@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-👨‍💻 &nbsp;Trabaje como Freelancer haciendo Full Stack en una empresa de desarro web llamada Neutronic Solutions.\
-💡 &nbsp;Porfavor mira mi portafolio:\
+👨‍💻 &nbsp;Trabaje como Freelancer haciendo Full Stack en una empresa de desarrollo web llamada Neutronic Solutions.\
+💡 &nbsp;Por favor mira mi portafolio:\
 🎓 &nbsp;Actualmente estudio una licenciatura en Multimedia y Animación Digital (orientado a programación) en la UANL en FCFM.\
-🌱 &nbsp;Aprendere mas sobre optimizacion de videojuegos, juego en linea, realidad virtual y mejorare en Full Stack.\
+🌱 &nbsp;Aprenderé mas sobre optimizacion de videojuegos, juego en linea, realidad virtual y mejorare en Full Stack.\
 ✉️ &nbsp;Enviame un email a mi correo: leo.olivares.garza@gmail.com\
-📄 &nbsp;Porfavor mira mi CV: https://canva.link/5zxtiiqdl1uqf7t 
+📄 &nbsp;Por favor mira mi CV: https://canva.link/5zxtiiqdl1uqf7t 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

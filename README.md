@@ -62,9 +62,9 @@
 
 *   **Desarrollo Web Comercial**: Sitio web Full Stack para una joyería en crecimiento desarrollado con React, enfocado en componentes modulares, diseño responsivo y persistencia de configuraciones de usuario.
 *   **Integración Hardware-Software**: Sistema interactivo que comunica sensores físicos y botones mediante Arduino con un bucle de juego lógico programado en Unity (C#).
-*   **Entornos Virtuales e IA**: Demo de un videojuego de disparos en primera persona (FPS) desarrollado en Unity, que incluye inteligencia artificial para enemigos (NavMesh) e interfaces dinámicas.
+*   **Desarrollo de Videojuegos e IA (Unity)**: Demo de un videojuego de disparos en primera persona (FPS) con temática de aliens, que incluye inteligencia artificial para enemigos (NavMesh), barras de vida e interfaces dinámicas de misión.
+*   **Mecánicas e Interacción en Entornos Virtuales (Unreal Engine 5)**: Proyecto enfocado en lógica de juego e interacción fluida utilizando el sistema de Blueprints para un sistema de recolección de cartas.
 *   **Infraestructura de Redes**: Diseño y simulación de redes LAN/WAN configurando topologías complejas, enrutamiento estático y optimización de tráfico mediante subneteo.
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 

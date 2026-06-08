@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 👨‍💻 &nbsp;Trabaje como Freelancer haciendo Full Stack en una empresa de desarro web llamada Neutronic Solutions.\
 💡 &nbsp;Porfavor mira mi portafolio:\
@@ -69,7 +69,7 @@
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!--<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>-->
 <a href="mailto:leo.olivares.garza@gmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lic.rex/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

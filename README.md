@@ -58,12 +58,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🚀 &nbsp;Featured Projects
+### 🚀 &nbsp;Proyectos Destacados
 
-*   **Commercial Web Development**: Full Stack Jewelry E-commerce built with React, featuring dynamic UI components, responsive layout, and multi-language support.
-*   **Hardware-Software Integration**: Interactive arcade-style system linking physical sensors and hardware components via Arduino with a custom Unity game loop (C#).
-*   **Virtual Environments & AI**: First-Person Shooter (FPS) gameplay prototype developed in Unreal Engine 5, featuring pathfinding enemy AI (NavMesh) and responsive UI.
-*   **Networking Labs**: Complete design and deployment of LAN/WAN structures across diverse network topologies, implementing customized classful subnetting and static routing.
+*   **Desarrollo Web Comercial**: Sitio web Full Stack para una joyería en crecimiento desarrollado con React, enfocado en componentes modulares, diseño responsivo y persistencia de configuraciones de usuario.
+*   **Integración Hardware-Software**: Sistema interactivo que comunica sensores físicos y botones mediante Arduino con un bucle de juego lógico programado en Unity (C#).
+*   **Entornos Virtuales e IA**: Demo de un videojuego de disparos en primera persona (FPS) desarrollado en Unreal Engine 5, que incluye inteligencia artificial para enemigos (NavMesh) e interfaces dinámicas.
+*   **Infraestructura de Redes**: Diseño y simulación de redes LAN/WAN configurando topologías complejas, enrutamiento estático y optimización de tráfico mediante subneteo.
 
 
 ### 🤝🏻 &nbsp;Connect with Me

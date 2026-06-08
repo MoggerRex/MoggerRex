@@ -70,6 +70,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:leo.olivares.garza@gmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lic.rex/"><img src="https://img.shields.io/badge/-lic.rex-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

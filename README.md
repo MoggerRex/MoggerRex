@@ -66,7 +66,7 @@
 *   **Mecánicas e Interacción en Entornos Virtuales (Unreal Engine 5)**: Proyecto enfocado en lógica de juego e interacción fluida utilizando el sistema de Blueprints para un sistema de recolección de cartas.
 *   **Infraestructura de Redes**: Diseño y simulación de redes LAN/WAN configurando topologías complejas, enrutamiento estático y optimización de tráfico mediante subneteo.
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
 <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -75,11 +75,3 @@
 <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>

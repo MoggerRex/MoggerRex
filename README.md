@@ -43,19 +43,27 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics & Skills
 
 <p align="center">
   <a href="https://github.com/MoggerRex">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoggerRex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/MoggerRex">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoggerRex&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
+#### ⚡ Core Technologies & Competencies
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ### 🚀 &nbsp;Proyectos Destacados

@@ -53,9 +53,8 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/MoggerRex">
+  <a href="https://github.com/MoggerRex"
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoggerRex&layout=compact&langs_count=6&theme=tokyonight&count_private=true"/>
   </a>
 </p>

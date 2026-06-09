@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 👨‍💻 &nbsp;Trabaje como Freelancer haciendo Full Stack en una empresa de desarrollo web llamada Neutronic Solutions.\
-💡 &nbsp;Por favor mira mi portafolio:https://github.com/MoggerRex/MoggerRex.github.io/blob/main/README.md\
+💡 &nbsp;Por favor mira mi portafolio: https://github.com/MoggerRex/MoggerRex.github.io/blob/main/README.md \
 🎓 &nbsp;Actualmente estudio una licenciatura en Multimedia y Animación Digital (orientado a programación) en la UANL en FCFM.\
 🌱 &nbsp;Aprenderé mas sobre optimizacion de videojuegos, juego en linea, realidad virtual y mejorare en Full Stack.\
 ✉️ &nbsp;Enviame un email a mi correo: leo.olivares.garza@gmail.com\

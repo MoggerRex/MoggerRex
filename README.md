@@ -28,6 +28,7 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![Blueprints](https://img.shields.io/badge/blueprints-%230052FF.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Databases & Networking

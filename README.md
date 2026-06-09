@@ -43,21 +43,29 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-**### ⚙️ &nbsp;GitHub Analytics & Skills
+### ⚙️ &nbsp;GitHub Analytics & Skills
 
-<p align="center">
-  <a href="https://github.com/MoggerRex">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoggerRex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/MoggerRex">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MoggerRex">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoggerRex&layout=compact&langs_count=6&theme=tokyonight&count_private=true"/>
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com/MoggerRex">
+        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoggerRex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MoggerRex">
+        <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoggerRex&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/MoggerRex">
+        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoggerRex&layout=compact&langs_count=6&theme=tokyonight&count_private=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### ⚡ Core Technologies & Competencies
 <p align="center">
